@@ -1,0 +1,7 @@
+# Ignore environment folders and secrets
+venv/
+.env
+__pycache__/
+*.pkl
+*.pbix
+*.docx
